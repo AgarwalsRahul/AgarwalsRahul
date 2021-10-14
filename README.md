@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SyncNote](https://github.com/AgarwalsRahul/Sync-Note)
 
-- 🌱 I’m currently learning **Android Developement**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📫 How to reach me **geniusgarwal1@gmail.com**
 
