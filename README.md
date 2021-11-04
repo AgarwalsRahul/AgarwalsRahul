@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rahul Agarwal</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-- 🔭 I’m currently working on [SyncNote](https://github.com/AgarwalsRahul/Sync-Note)
+- 🔭 I’m currently working on [SyncNote](https://github.com/AgarwalsRahul/Sync-Note) Project
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
